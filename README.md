@@ -1,4 +1,4 @@
-# Share Your Travels
+# Share Your Travels (Version 2)
 Link: http://shareyourtravels.comli.com/index.php
 
 Originally developed with [Dan Dobranski](https://www.linkedin.com/in/dan-dobranski-07909383/) in December 2015 as the second phase/assignment of a semester-long web development project for COMP 3512 - Web II: Web Application Development at Mount Royal University. 
