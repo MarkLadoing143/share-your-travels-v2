@@ -5,4 +5,6 @@ Originally developed with [Dan Dobranski](https://www.linkedin.com/in/dan-dobran
 
 ## Description
 
-Developed using PHP and MySQL and expanding upon code developed in Assignment 1, this second version includes additional functions such as the ability to favorite images and users posts, as well as a shopping cart to purchase images with various customizable features including image size, stock, frame style, and choice of shipping method. Favorites and Cart data are stored via PHP session variables. This version also utilizes PHP classes instead of prepared statements to retrieve and display data from the MySQL Database in a object-oriented fashion.
+Developed using PHP and MySQL and expanding upon code developed in Assignment 1, this second version includes additional functions such as the ability to favorite images and users posts, as well as a shopping cart to purchase images with various customizable features including image size, stock, frame style, and choice of shipping method. Favorites and Cart data are stored via PHP session variables. 
+
+This version also utilizes PHP classes instead of prepared statements to retrieve and display data from the MySQL Database in a object-oriented fashion.
